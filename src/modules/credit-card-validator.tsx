@@ -12,7 +12,7 @@ export default function CreditCardValidator() {
 
   return (
     <div className="bg-red mb-4 p-6 bg-white rounded-xl shadow-lg font-sans">
-      <h3 className="text-2xl font-bold mb-4 text-center text-gray-800">کنترل صحت شماره کارت بانکی </h3>
+      <h1 className="text-2xl font-bold mb-4 text-center text-gray-800">کنترل صحت شماره کارت بانکی </h1>
 
       <label className="block mb-4 text-gray-700">
         کد 16 رقمی کارت را وارد کنید:
